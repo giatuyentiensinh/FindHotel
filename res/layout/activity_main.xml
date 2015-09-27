@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"    
+        android:background="@drawable/splash">
+        <RelativeLayout
+            android:id="@+id/combobox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/border_combobox_hide" >
+            <EditText
+                android:id="@+id/bankinh"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/click_select"
+                android:hint="@string/hintBankinh"
+                android:gravity="center"
+                android:singleLine="true"
+                android:inputType="number"
+                android:textSize="@dimen/combobox_text_size" />
+            <ImageView
+                android:id="@+id/click_select"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/icon_selected"/>
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/list_bankinh"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/combobox_height"
+            android:layout_alignLeft="@+id/combobox"
+            android:layout_alignRight="@+id/combobox"
+            android:layout_below="@+id/combobox"
+            android:background="@drawable/search_hotel"
+            android:listSelector="@color/gray"
+            android:cacheColorHint="@android:color/transparent"
+            android:visibility="gone" />
+        <ImageView
+            android:id="@+id/btn_find"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_below="@+id/list_bankinh"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/globe" />
+        <TextView
+            android:id="@+id/textSplash"
+            style="@style/textSplashStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+            android:layout_below="@+id/list_bankinh"          
+            android:layout_toRightOf="@+id/btn_find"  
+            android:layout_toEndOf="@+id/btn_find"        
+            android:paddingTop="45dp"
+            android:text="@string/textSplash" />
+    </RelativeLayout>

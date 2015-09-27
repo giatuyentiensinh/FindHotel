@@ -1,0 +1,11 @@
+-	Chris Haseman, Android Essentials, Appres, 2008.
+-	Johannes Knutsen, WebServices Clients on Mobile Android Devices, Norwegian University of Science and Technology, 2009.
+-	Reo Meier, Professional Android Development,  John Wiley & Sons, 2010.
+-	Scott Davis,  Google Maps API, 2nd, Appress, 2013.
+-	Johannes Knutsen, WebServices Clients on Mobile Android, O’Reilly, 2009.
+-	Mark L. Murphy, Beginning Android. Appress, 2009.
+-	Sayed Y. Hashimi and Satya Komatineni, Pro Android, Appress, 2009.
+-	Johannes Knutsen, WebServices Clients on Mobile Android Devices, Wrox, 2010.
+-	https://developers.google.com/maps/documenemtion/directions/
+-	https://developers.google.com/
+-	https://stackoverflow.com/

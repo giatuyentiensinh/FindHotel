@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name ="showHotel">Danh Sách Khách Sạn</string>
+	<string name ="detailHotel">Dẫn Đường</string>
+    <string name="app_name">FindHotel</string>
+    <string name="action_settings">Settings</string>
+    <string name ="textSplash">Find Hotel :)</string>
+    <string name ="textcontact">Liên Hệ:</string>
+    <string name ="hintBankinh">Nhập hoặc chọn bán kính</string>
+    <string name ="hintSearchhotel">Tìm kiếm theo tên...</string>
+    <string name ="textKm">Km</string>
+    <string name ="menuSearchLine">Dẫn Đường</string>
+    <string name ="menuCancel">Tìm Với Bán Kính Khác</string>
+</resources>

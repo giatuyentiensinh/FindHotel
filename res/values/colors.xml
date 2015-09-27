@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="app_background">#350F02</color>
+        <color name="list_item_title">#fff</color>
+	    <color name="list_background">#3c413c</color>
+	    <color name="list_background_pressed">#16a4d9</color>
+	    <color name="list_divider">#1f9619</color>
+	    <color name="ok_butt_background">#60ad07</color>
+	    <color name="green">#60ad07</color>
+	    <color name="red">#ec1313</color>
+	    <color name="orange">#FFA500</color>
+	    <color name="grey_butt">#cecfcd</color>
+	    <color name="blue">#1573b5</color>
+	    <color name="white_trsnsparent">#70ffffff</color>
+	    <color name="gray_transparent">#8C000000</color>
+	    <color name="action_bar">#286b0a</color>
+	    <color name="xam">#c5c4c4</color>
+	    <color name="title_blue">#061182</color>
+	    <color name="bg_grey">#3a3a3a</color>
+	    <color name="program">#69bf13</color>
+	    <color name="bg_index">#10f420</color>
+	    <color name="white">#FFFFFF</color>
+	    <color name="black">#000000</color>
+	    <color name="base_white_transparent_color">#8FFF</color>
+    	<color name="comm_listview_divider">#CFCFCF</color>
+    	<color name="dark_slate_gray">#2F4F4F</color>
+    	<color name="gray">#C0C0C0</color>
+    	<color name="holo_blue_light">#ff33b5e5</color>  
+    </resources>

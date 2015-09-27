@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.findhotel.activity.MainActivity" >
+    <item android:id="@+id/searchline" android:title="@string/menuSearchLine"></item>
+    <item android:id="@+id/cancel" android:title="@string/menuCancel"></item>
+
+</menu>
